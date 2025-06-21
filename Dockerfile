@@ -1,1 +1,1 @@
-FROM openwebui/openwebui:latest
+FROM ghcr.io/openwebui/openwebui:latest
